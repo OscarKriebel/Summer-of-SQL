@@ -1,9 +1,9 @@
 # Summer-of-SQL
 My Solutions to the [Summer of SQL by Will Sutton](https://www.theinformationlab.co.uk/community/blog/the-summer-of-sql-til/)
 
-Day 1 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Finished
-Day 2 - [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/) - Finished
-Day 3 - [Preppin' Data 2023 Week 1-4](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) - Finished
+Day 1 - [SQL Murder Mystery](https://mystery.knightlab.com/) - Finished  
+Day 2 - [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/) - Finished  
+Day 3 - [Preppin' Data 2023 Week 1-4](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) - Finished  
 Day 4 - [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) - To Do  
 Day 5 - [Foodie Fi Sections A & B](https://8weeksqlchallenge.com/case-study-3/) - To Do  
 Day 6 - [Preppin' Data 2023 Week 5-8](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html) - In Progress  
