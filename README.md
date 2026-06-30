@@ -6,7 +6,7 @@ Day 2 - [Danny's Diner](https://8weeksqlchallenge.com/case-study-1/) - Finished
 Day 3 - [Preppin' Data 2023 Week 1-4](https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.html) - Finished  
 Day 4 - [Pizza Runner](https://8weeksqlchallenge.com/case-study-2/) - Finished  
 Day 5 - [Foodie Fi Sections A & B](https://8weeksqlchallenge.com/case-study-3/) - Finished  
-Day 6 - [Preppin' Data 2023 Week 5-8](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html) - In Progress  
+Day 6 - [Preppin' Data 2023 Week 5-8](https://preppindata.blogspot.com/2023/02/2023-week-5-dsb-ranking.html) - Finished  
 Day 7 - [Lego Analysis Challenge](https://github.com/wjsutton/lego_analysis_challenge) - To Do  
 Day 8 - [Data Bank Section A](https://8weeksqlchallenge.com/case-study-4/) - To Do  
 Day 9 - [Preppin' Data Week 9-12](https://preppindata.blogspot.com/2023/03/2023-week-9-customer-bank-statements.html) - In Progress  
