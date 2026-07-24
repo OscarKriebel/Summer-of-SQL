@@ -9,6 +9,7 @@
     <ObjectModelTableType />
     <SchemaViewerObjectModel />
     <SheetIdentifierTracking />
+    <SortTagCleanup />
     <WindowsPersistSimpleIdentifiers />
   </document-format-change-manifest>
   <preferences>
@@ -181,400 +182,400 @@
       <style>
         <style-rule element='mark'>
           <encoding attr='color' field='[none:Color RGB:nk]' type='palette'>
-            <map to='#7988A1'>
-              <bucket>&quot;7988A1&quot;</bucket>
+            <map to='#000000'>
+              <bucket>&quot;000000&quot;</bucket>
             </map>
-            <map to='#7C503A'>
-              <bucket>&quot;7C503A&quot;</bucket>
+            <map to='#0020a0'>
+              <bucket>&quot;0020A0&quot;</bucket>
             </map>
-            <map to='#AEEFEC'>
-              <bucket>&quot;AEEFEC&quot;</bucket>
-            </map>
-            <map to='#F6D7B3'>
-              <bucket>&quot;F6D7B3&quot;</bucket>
-            </map>
-            <map to='#0A3463'>
-              <bucket>&quot;0A3463&quot;</bucket>
-            </map>
-            <map to='#720E0F'>
-              <bucket>&quot;720E0F&quot;</bucket>
-            </map>
-            <map to='#A0BCAC'>
-              <bucket>&quot;A0BCAC&quot;</bucket>
-            </map>
-            <map to='#DCBC81'>
-              <bucket>&quot;DCBC81&quot;</bucket>
-            </map>
-            <map to='#0033B2'>
+            <map to='#0033b2'>
               <bucket>&quot;0033B2&quot;</bucket>
             </map>
-            <map to='#4C61DB'>
-              <bucket>&quot;4C61DB&quot;</bucket>
+            <map to='#0055bf'>
+              <bucket>&quot;0055BF&quot;</bucket>
             </map>
-            <map to='#AA7F2E'>
-              <bucket>&quot;AA7F2E&quot;</bucket>
+            <map to='#008f9b'>
+              <bucket>&quot;008F9B&quot;</bucket>
             </map>
-            <map to='#E4ADC8'>
-              <bucket>&quot;E4ADC8&quot;</bucket>
+            <map to='#05131d'>
+              <bucket>&quot;05131D&quot;</bucket>
+            </map>
+            <map to='#078bc9'>
+              <bucket>&quot;078BC9&quot;</bucket>
+            </map>
+            <map to='#0a3463'>
+              <bucket>&quot;0A3463&quot;</bucket>
             </map>
             <map to='#184632'>
               <bucket>&quot;184632&quot;</bucket>
             </map>
-            <map to='#9CA3A8'>
-              <bucket>&quot;9CA3A8&quot;</bucket>
-            </map>
-            <map to='#BBE90B'>
-              <bucket>&quot;BBE90B&quot;</bucket>
-            </map>
-            <map to='#FA9C1C'>
-              <bucket>&quot;FA9C1C&quot;</bucket>
-            </map>
-            <map to='#05131D'>
-              <bucket>&quot;05131D&quot;</bucket>
-            </map>
-            <map to='#7DBFDD'>
-              <bucket>&quot;7DBFDD&quot;</bucket>
-            </map>
-            <map to='#B3D7D1'>
-              <bucket>&quot;B3D7D1&quot;</bucket>
-            </map>
-            <map to='#F8BB3D'>
-              <bucket>&quot;F8BB3D&quot;</bucket>
-            </map>
-            <map to='#0055BF'>
-              <bucket>&quot;0055BF&quot;</bucket>
-            </map>
-            <map to='#5A93DB'>
-              <bucket>&quot;5A93DB&quot;</bucket>
-            </map>
-            <map to='#AC78BA'>
-              <bucket>&quot;AC78BA&quot;</bucket>
-            </map>
-            <map to='#E4CD9E'>
-              <bucket>&quot;E4CD9E&quot;</bucket>
-            </map>
-            <map to='#582A12'>
-              <bucket>&quot;582A12&quot;</bucket>
-            </map>
-            <map to='#923978'>
-              <bucket>&quot;923978&quot;</bucket>
-            </map>
-            <map to='#D67572'>
-              <bucket>&quot;D67572&quot;</bucket>
-            </map>
-            <map to='#FFFFFF'>
-              <bucket>&quot;FFFFFF&quot;</bucket>
-            </map>
-            <map to='#1B2A34'>
+            <map to='#1b2a34'>
               <bucket>&quot;1B2A34&quot;</bucket>
-            </map>
-            <map to='#845E84'>
-              <bucket>&quot;845E84&quot;</bucket>
-            </map>
-            <map to='#A5A5CB'>
-              <bucket>&quot;A5A5CB&quot;</bucket>
-            </map>
-            <map to='#DF6695'>
-              <bucket>&quot;DF6695&quot;</bucket>
-            </map>
-            <map to='#008F9B'>
-              <bucket>&quot;008F9B&quot;</bucket>
-            </map>
-            <map to='#583927'>
-              <bucket>&quot;583927&quot;</bucket>
-            </map>
-            <map to='#D9E4A7'>
-              <bucket>&quot;D9E4A7&quot;</bucket>
-            </map>
-            <map to='#FFA70B'>
-              <bucket>&quot;FFA70B&quot;</bucket>
-            </map>
-            <map to='#4354A3'>
-              <bucket>&quot;4354A3&quot;</bucket>
-            </map>
-            <map to='#6C6E68'>
-              <bucket>&quot;6C6E68&quot;</bucket>
-            </map>
-            <map to='#ADC3C0'>
-              <bucket>&quot;ADC3C0&quot;</bucket>
-            </map>
-            <map to='#F2CD37'>
-              <bucket>&quot;F2CD37&quot;</bucket>
             </map>
             <map to='#237841'>
               <bucket>&quot;237841&quot;</bucket>
             </map>
-            <map to='#9FC3E9'>
-              <bucket>&quot;9FC3E9&quot;</bucket>
-            </map>
-            <map to='#C91A09'>
-              <bucket>&quot;C91A09&quot;</bucket>
-            </map>
-            <map to='#FCFCFC'>
-              <bucket>&quot;FCFCFC&quot;</bucket>
-            </map>
             <map to='#352100'>
               <bucket>&quot;352100&quot;</bucket>
             </map>
-            <map to='#36AEBF'>
+            <map to='#36aebf'>
               <bucket>&quot;36AEBF&quot;</bucket>
             </map>
-            <map to='#CC702A'>
-              <bucket>&quot;CC702A&quot;</bucket>
-            </map>
-            <map to='#FE8A18'>
-              <bucket>&quot;FE8A18&quot;</bucket>
-            </map>
-            <map to='#078BC9'>
-              <bucket>&quot;078BC9&quot;</bucket>
-            </map>
-            <map to='#898788'>
-              <bucket>&quot;898788&quot;</bucket>
-            </map>
-            <map to='#D09168'>
-              <bucket>&quot;D09168&quot;</bucket>
-            </map>
-            <map to='#FFF03A'>
-              <bucket>&quot;FFF03A&quot;</bucket>
-            </map>
-            <map to='#635F52'>
-              <bucket>&quot;635F52&quot;</bucket>
-            </map>
-            <map to='#A0A5A9'>
-              <bucket>&quot;A0A5A9&quot;</bucket>
-            </map>
-            <map to='#DBAC34'>
-              <bucket>&quot;DBAC34&quot;</bucket>
-            </map>
-            <map to='#81007B'>
-              <bucket>&quot;81007B&quot;</bucket>
-            </map>
-            <map to='#9B9A5A'>
-              <bucket>&quot;9B9A5A&quot;</bucket>
-            </map>
-            <map to='#B4D2E3'>
-              <bucket>&quot;B4D2E3&quot;</bucket>
-            </map>
-            <map to='#F8F184'>
-              <bucket>&quot;F8F184&quot;</bucket>
-            </map>
-            <map to='#6074A1'>
-              <bucket>&quot;6074A1&quot;</bucket>
-            </map>
-            <map to='#6D6E5C'>
-              <bucket>&quot;6D6E5C&quot;</bucket>
-            </map>
-            <map to='#AE7A59'>
-              <bucket>&quot;AE7A59&quot;</bucket>
-            </map>
-            <map to='#F5CD2F'>
-              <bucket>&quot;F5CD2F&quot;</bucket>
-            </map>
-            <map to='#3F3691'>
+            <map to='#3f3691'>
               <bucket>&quot;3F3691&quot;</bucket>
             </map>
-            <map to='#958A73'>
-              <bucket>&quot;958A73&quot;</bucket>
+            <map to='#4354a3'>
+              <bucket>&quot;4354A3&quot;</bucket>
             </map>
-            <map to='#A5A9B4'>
-              <bucket>&quot;A5A9B4&quot;</bucket>
+            <map to='#4b9f4a'>
+              <bucket>&quot;4B9F4A&quot;</bucket>
             </map>
-            <map to='#E0E0E0'>
-              <bucket>&quot;E0E0E0&quot;</bucket>
+            <map to='#4c61db'>
+              <bucket>&quot;4C61DB&quot;</bucket>
             </map>
             <map to='#575857'>
               <bucket>&quot;575857&quot;</bucket>
             </map>
-            <map to='#84B68D'>
+            <map to='#582a12'>
+              <bucket>&quot;582A12&quot;</bucket>
+            </map>
+            <map to='#583927'>
+              <bucket>&quot;583927&quot;</bucket>
+            </map>
+            <map to='#5a93db'>
+              <bucket>&quot;5A93DB&quot;</bucket>
+            </map>
+            <map to='#6074a1'>
+              <bucket>&quot;6074A1&quot;</bucket>
+            </map>
+            <map to='#635f52'>
+              <bucket>&quot;635F52&quot;</bucket>
+            </map>
+            <map to='#6c6e68'>
+              <bucket>&quot;6C6E68&quot;</bucket>
+            </map>
+            <map to='#6d6e5c'>
+              <bucket>&quot;6D6E5C&quot;</bucket>
+            </map>
+            <map to='#720e0f'>
+              <bucket>&quot;720E0F&quot;</bucket>
+            </map>
+            <map to='#7988a1'>
+              <bucket>&quot;7988A1&quot;</bucket>
+            </map>
+            <map to='#7c503a'>
+              <bucket>&quot;7C503A&quot;</bucket>
+            </map>
+            <map to='#7dbfdd'>
+              <bucket>&quot;7DBFDD&quot;</bucket>
+            </map>
+            <map to='#81007b'>
+              <bucket>&quot;81007B&quot;</bucket>
+            </map>
+            <map to='#845e84'>
+              <bucket>&quot;845E84&quot;</bucket>
+            </map>
+            <map to='#84b68d'>
               <bucket>&quot;84B68D&quot;</bucket>
             </map>
-            <map to='#CFE2F7'>
-              <bucket>&quot;CFE2F7&quot;</bucket>
+            <map to='#898788'>
+              <bucket>&quot;898788&quot;</bucket>
             </map>
-            <map to='#FF800D'>
-              <bucket>&quot;FF800D&quot;</bucket>
+            <map to='#923978'>
+              <bucket>&quot;923978&quot;</bucket>
             </map>
-            <map to='#000000'>
-              <bucket>&quot;000000&quot;</bucket>
+            <map to='#958a73'>
+              <bucket>&quot;958A73&quot;</bucket>
             </map>
-            <map to='#9BA19D'>
+            <map to='#9b9a5a'>
+              <bucket>&quot;9B9A5A&quot;</bucket>
+            </map>
+            <map to='#9ba19d'>
               <bucket>&quot;9BA19D&quot;</bucket>
             </map>
-            <map to='#BBA53D'>
-              <bucket>&quot;BBA53D&quot;</bucket>
+            <map to='#9ca3a8'>
+              <bucket>&quot;9CA3A8&quot;</bucket>
             </map>
-            <map to='#F08F1C'>
-              <bucket>&quot;F08F1C&quot;</bucket>
+            <map to='#9fc3e9'>
+              <bucket>&quot;9FC3E9&quot;</bucket>
             </map>
-            <map to='#0020A0'>
-              <bucket>&quot;0020A0&quot;</bucket>
+            <map to='#a0a5a9'>
+              <bucket>&quot;A0A5A9&quot;</bucket>
             </map>
-            <map to='#4B9F4A'>
-              <bucket>&quot;4B9F4A&quot;</bucket>
+            <map to='#a0bcac'>
+              <bucket>&quot;A0BCAC&quot;</bucket>
             </map>
-            <map to='#A95500'>
+            <map to='#a5a5cb'>
+              <bucket>&quot;A5A5CB&quot;</bucket>
+            </map>
+            <map to='#a5a9b4'>
+              <bucket>&quot;A5A9B4&quot;</bucket>
+            </map>
+            <map to='#a95500'>
               <bucket>&quot;A95500&quot;</bucket>
             </map>
-            <map to='#E1D5ED'>
+            <map to='#aa7f2e'>
+              <bucket>&quot;AA7F2E&quot;</bucket>
+            </map>
+            <map to='#ac78ba'>
+              <bucket>&quot;AC78BA&quot;</bucket>
+            </map>
+            <map to='#adc3c0'>
+              <bucket>&quot;ADC3C0&quot;</bucket>
+            </map>
+            <map to='#ae7a59'>
+              <bucket>&quot;AE7A59&quot;</bucket>
+            </map>
+            <map to='#aeefec'>
+              <bucket>&quot;AEEFEC&quot;</bucket>
+            </map>
+            <map to='#b3d7d1'>
+              <bucket>&quot;B3D7D1&quot;</bucket>
+            </map>
+            <map to='#b4d2e3'>
+              <bucket>&quot;B4D2E3&quot;</bucket>
+            </map>
+            <map to='#bba53d'>
+              <bucket>&quot;BBA53D&quot;</bucket>
+            </map>
+            <map to='#bbe90b'>
+              <bucket>&quot;BBE90B&quot;</bucket>
+            </map>
+            <map to='#c91a09'>
+              <bucket>&quot;C91A09&quot;</bucket>
+            </map>
+            <map to='#cc702a'>
+              <bucket>&quot;CC702A&quot;</bucket>
+            </map>
+            <map to='#cfe2f7'>
+              <bucket>&quot;CFE2F7&quot;</bucket>
+            </map>
+            <map to='#d09168'>
+              <bucket>&quot;D09168&quot;</bucket>
+            </map>
+            <map to='#d67572'>
+              <bucket>&quot;D67572&quot;</bucket>
+            </map>
+            <map to='#d9e4a7'>
+              <bucket>&quot;D9E4A7&quot;</bucket>
+            </map>
+            <map to='#dbac34'>
+              <bucket>&quot;DBAC34&quot;</bucket>
+            </map>
+            <map to='#dcbc81'>
+              <bucket>&quot;DCBC81&quot;</bucket>
+            </map>
+            <map to='#df6695'>
+              <bucket>&quot;DF6695&quot;</bucket>
+            </map>
+            <map to='#e0e0e0'>
+              <bucket>&quot;E0E0E0&quot;</bucket>
+            </map>
+            <map to='#e1d5ed'>
               <bucket>&quot;E1D5ED&quot;</bucket>
             </map>
+            <map to='#e4adc8'>
+              <bucket>&quot;E4ADC8&quot;</bucket>
+            </map>
+            <map to='#e4cd9e'>
+              <bucket>&quot;E4CD9E&quot;</bucket>
+            </map>
+            <map to='#f08f1c'>
+              <bucket>&quot;F08F1C&quot;</bucket>
+            </map>
+            <map to='#f2cd37'>
+              <bucket>&quot;F2CD37&quot;</bucket>
+            </map>
+            <map to='#f5cd2f'>
+              <bucket>&quot;F5CD2F&quot;</bucket>
+            </map>
+            <map to='#f6d7b3'>
+              <bucket>&quot;F6D7B3&quot;</bucket>
+            </map>
+            <map to='#f8bb3d'>
+              <bucket>&quot;F8BB3D&quot;</bucket>
+            </map>
+            <map to='#f8f184'>
+              <bucket>&quot;F8F184&quot;</bucket>
+            </map>
+            <map to='#fa9c1c'>
+              <bucket>&quot;FA9C1C&quot;</bucket>
+            </map>
+            <map to='#fcfcfc'>
+              <bucket>&quot;FCFCFC&quot;</bucket>
+            </map>
+            <map to='#fe8a18'>
+              <bucket>&quot;FE8A18&quot;</bucket>
+            </map>
+            <map to='#ff800d'>
+              <bucket>&quot;FF800D&quot;</bucket>
+            </map>
+            <map to='#ffa70b'>
+              <bucket>&quot;FFA70B&quot;</bucket>
+            </map>
+            <map to='#fff03a'>
+              <bucket>&quot;FFF03A&quot;</bucket>
+            </map>
+            <map to='#ffffff'>
+              <bucket>&quot;FFFFFF&quot;</bucket>
+            </map>
           </encoding>
-          <encoding attr='color' field='[none:Part Category:nk]' type='palette'>
-            <map to='#499894'>
-              <bucket>&quot;Bricks Round and Cones&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;Rock&quot;</bucket>
-            </map>
-            <map to='#499894'>
-              <bucket>&quot;Tubes and Hoses&quot;</bucket>
-            </map>
+          <encoding attr='color' field='[none:Part Category:nk]' palette='tableau10_10_0' type='palette'>
             <map to='#4e79a7'>
               <bucket>%null%</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Bricks Special&quot;</bucket>
             </map>
             <map to='#4e79a7'>
               <bucket>&quot;Panels&quot;</bucket>
             </map>
             <map to='#4e79a7'>
+              <bucket>&quot;Supports, Girders and Cranes&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
               <bucket>&quot;Technic Special&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Windows and Doors&quot;</bucket>
             </map>
             <map to='#59a14f'>
               <bucket>&quot;Bionicle, Hero Factory and Constraction&quot;</bucket>
             </map>
             <map to='#59a14f'>
+              <bucket>&quot;Hinges, Arms and Turntables&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
               <bucket>&quot;Plates Round and Dishes&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Technic Bricks&quot;</bucket>
             </map>
             <map to='#59a14f'>
               <bucket>&quot;Tiles Special&quot;</bucket>
             </map>
-            <map to='#79706e'>
-              <bucket>&quot;Containers&quot;</bucket>
+            <map to='#76b7b2'>
+              <bucket>&quot;Belville, Scala and Fabuland&quot;</bucket>
             </map>
-            <map to='#79706e'>
-              <bucket>&quot;Technic Beams&quot;</bucket>
+            <map to='#76b7b2'>
+              <bucket>&quot;Flags, Signs, Plastics and Cloth&quot;</bucket>
             </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;Bricks Sloped&quot;</bucket>
+            <map to='#76b7b2'>
+              <bucket>&quot;Plates Angled&quot;</bucket>
             </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;String, Bands and Reels&quot;</bucket>
+            <map to='#76b7b2'>
+              <bucket>&quot;Technic Beams Special&quot;</bucket>
             </map>
-            <map to='#86bcb6'>
-              <bucket>&quot;Wheels and Tyres&quot;</bucket>
+            <map to='#76b7b2'>
+              <bucket>&quot;Tiles Printed&quot;</bucket>
             </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;Bricks&quot;</bucket>
+            <map to='#9c755f'>
+              <bucket>&quot;Bricks Round and Cones&quot;</bucket>
             </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;Plates Special&quot;</bucket>
-            </map>
-            <map to='#8cd17d'>
-              <bucket>&quot;Tools&quot;</bucket>
-            </map>
-            <map to='#9d7660'>
+            <map to='#9c755f'>
               <bucket>&quot;Non-LEGO&quot;</bucket>
             </map>
-            <map to='#9d7660'>
+            <map to='#9c755f'>
+              <bucket>&quot;Rock&quot;</bucket>
+            </map>
+            <map to='#9c755f'>
               <bucket>&quot;Technic Panels&quot;</bucket>
             </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;Bars, Ladders and Fences&quot;</bucket>
+            <map to='#9c755f'>
+              <bucket>&quot;Tubes and Hoses&quot;</bucket>
             </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;Plants and Animals&quot;</bucket>
-            </map>
-            <map to='#a0cbe8'>
-              <bucket>&quot;Technic Steering, Suspension and Engine&quot;</bucket>
+            <map to='#b07aa1'>
+              <bucket>&quot;Bricks Curved&quot;</bucket>
             </map>
             <map to='#b07aa1'>
               <bucket>&quot;Minifig Accessories&quot;</bucket>
             </map>
             <map to='#b07aa1'>
-              <bucket>&quot;Technic Connectors&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
-              <bucket>&quot;Bricks Curved&quot;</bucket>
-            </map>
-            <map to='#b6992d'>
               <bucket>&quot;Pneumatics&quot;</bucket>
             </map>
-            <map to='#b6992d'>
+            <map to='#b07aa1'>
+              <bucket>&quot;Technic Connectors&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
               <bucket>&quot;Transportation - Land&quot;</bucket>
             </map>
             <map to='#bab0ac'>
-              <bucket>&quot;Flags, Signs, Plastics and Cloth&quot;</bucket>
+              <bucket>&quot;Bricks Sloped&quot;</bucket>
             </map>
             <map to='#bab0ac'>
-              <bucket>&quot;Technic Beams Special&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;Hinges, Arms and Turntables&quot;</bucket>
-            </map>
-            <map to='#d37295'>
-              <bucket>&quot;Technic Bricks&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;Minifigs&quot;</bucket>
-            </map>
-            <map to='#d4a6c8'>
-              <bucket>&quot;Technic Gears&quot;</bucket>
-            </map>
-            <map to='#d7b5a6'>
               <bucket>&quot;Other&quot;</bucket>
             </map>
-            <map to='#d7b5a6'>
+            <map to='#bab0ac'>
+              <bucket>&quot;String, Bands and Reels&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
               <bucket>&quot;Technic Pins&quot;</bucket>
             </map>
-            <map to='#e15759'>
-              <bucket>&quot;Bricks Special&quot;</bucket>
+            <map to='#bab0ac'>
+              <bucket>&quot;Wheels and Tyres&quot;</bucket>
             </map>
             <map to='#e15759'>
-              <bucket>&quot;Supports, Girders and Cranes&quot;</bucket>
-            </map>
-            <map to='#e15759'>
-              <bucket>&quot;Windows and Doors&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;Bricks Printed&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;Power Functions, Mindstorms and Electric&quot;</bucket>
-            </map>
-            <map to='#f1ce63'>
-              <bucket>&quot;Transportation - Sea and Air&quot;</bucket>
-            </map>
-            <map to='#f28e2b'>
               <bucket>&quot;Baseplates&quot;</bucket>
             </map>
-            <map to='#f28e2b'>
+            <map to='#e15759'>
+              <bucket>&quot;Containers&quot;</bucket>
+            </map>
+            <map to='#e15759'>
               <bucket>&quot;Plates&quot;</bucket>
             </map>
-            <map to='#f28e2b'>
+            <map to='#e15759'>
+              <bucket>&quot;Technic Beams&quot;</bucket>
+            </map>
+            <map to='#e15759'>
               <bucket>&quot;Tiles&quot;</bucket>
             </map>
-            <map to='#fabfd2'>
+            <map to='#edc948'>
+              <bucket>&quot;Bricks&quot;</bucket>
+            </map>
+            <map to='#edc948'>
               <bucket>&quot;Magnets and Holders&quot;</bucket>
             </map>
-            <map to='#fabfd2'>
+            <map to='#edc948'>
+              <bucket>&quot;Plates Special&quot;</bucket>
+            </map>
+            <map to='#edc948'>
               <bucket>&quot;Technic Bushes&quot;</bucket>
             </map>
-            <map to='#ff9d9a'>
+            <map to='#edc948'>
+              <bucket>&quot;Tools&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Bars, Ladders and Fences&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
               <bucket>&quot;Bricks Wedged&quot;</bucket>
             </map>
-            <map to='#ff9d9a'>
+            <map to='#f28e2b'>
+              <bucket>&quot;Plants and Animals&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
               <bucket>&quot;Technic Axles&quot;</bucket>
             </map>
-            <map to='#ff9d9a'>
+            <map to='#f28e2b'>
+              <bucket>&quot;Technic Steering, Suspension and Engine&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
               <bucket>&quot;Windscreens and Fuselage&quot;</bucket>
             </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;Belville, Scala and Fabuland&quot;</bucket>
+            <map to='#ff9da7'>
+              <bucket>&quot;Bricks Printed&quot;</bucket>
             </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;Plates Angled&quot;</bucket>
+            <map to='#ff9da7'>
+              <bucket>&quot;Minifigs&quot;</bucket>
             </map>
-            <map to='#ffbe7d'>
-              <bucket>&quot;Tiles Printed&quot;</bucket>
+            <map to='#ff9da7'>
+              <bucket>&quot;Power Functions, Mindstorms and Electric&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;Technic Gears&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;Transportation - Sea and Air&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -605,7 +606,7 @@
     </datasource>
   </datasources>
   <worksheets>
-    <worksheet name='Sheet 1'>
+    <worksheet name='How Often does Each Color Appear in Star Wars Sets?'>
       <table>
         <view>
           <datasources>
@@ -615,8 +616,12 @@
             <column datatype='string' name='[Color RGB]' role='dimension' type='nominal' />
             <column datatype='integer' name='[Part Quantity]' role='measure' type='quantitative' />
             <column-instance column='[Color RGB]' derivation='None' name='[none:Color RGB:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Part Quantity]' derivation='Sum' name='[pcto:sum:Part Quantity:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' type='PctTotal' />
+            </column-instance>
             <column-instance column='[Part Quantity]' derivation='Sum' name='[sum:Part Quantity:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
+          <computed-sort column='[federated.110paeb0myhzxn1dtot5y1423rmm].[none:Color RGB:nk]' direction='DESC' using='[federated.110paeb0myhzxn1dtot5y1423rmm].[sum:Part Quantity:qk]' />
           <aggregation value='true' />
         </view>
         <style />
@@ -629,7 +634,16 @@
             <encodings>
               <color column='[federated.110paeb0myhzxn1dtot5y1423rmm].[none:Color RGB:nk]' />
               <size column='[federated.110paeb0myhzxn1dtot5y1423rmm].[sum:Part Quantity:qk]' />
+              <text column='[federated.110paeb0myhzxn1dtot5y1423rmm].[pcto:sum:Part Quantity:qk]' />
             </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='has-stroke' value='true' />
+                <format attr='stroke-color' value='#000000' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
           </pane>
         </panes>
         <rows />
@@ -637,41 +651,9 @@
       </table>
       <simple-id uuid='{E6569EB9-381B-41AF-9663-F9922D42351E}' />
     </worksheet>
-    <worksheet name='Sheet 2'>
-      <table>
-        <view>
-          <datasources>
-            <datasource caption='Star_Wars_Legos' name='federated.110paeb0myhzxn1dtot5y1423rmm' />
-          </datasources>
-          <datasource-dependencies datasource='federated.110paeb0myhzxn1dtot5y1423rmm'>
-            <column datatype='string' name='[Part Category]' role='dimension' type='nominal' />
-            <column datatype='integer' name='[Part Quantity]' role='measure' type='quantitative' />
-            <column-instance column='[Part Category]' derivation='None' name='[none:Part Category:nk]' pivot='key' type='nominal' />
-            <column-instance column='[Part Quantity]' derivation='Sum' name='[sum:Part Quantity:qk]' pivot='key' type='quantitative' />
-          </datasource-dependencies>
-          <aggregation value='true' />
-        </view>
-        <style />
-        <panes>
-          <pane selection-relaxation-option='selection-relaxation-allow'>
-            <view>
-              <breakdown value='auto' />
-            </view>
-            <mark class='Pie' />
-            <encodings>
-              <color column='[federated.110paeb0myhzxn1dtot5y1423rmm].[none:Part Category:nk]' />
-              <size column='[federated.110paeb0myhzxn1dtot5y1423rmm].[sum:Part Quantity:qk]' />
-            </encodings>
-          </pane>
-        </panes>
-        <rows />
-        <cols />
-      </table>
-      <simple-id uuid='{B2AD592C-EAA3-4C14-8845-7782DB60867A}' />
-    </worksheet>
   </worksheets>
-  <windows source-height='30'>
-    <window class='worksheet' name='Sheet 1'>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='How Often does Each Color Appear in Star Wars Sets?'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -687,7 +669,7 @@
           <strip size='2147483647'>
             <card type='rows' />
           </strip>
-          <strip size='31'>
+          <strip size='2147483647'>
             <card type='title' />
           </strip>
         </edge>
@@ -699,6 +681,7 @@
         </edge>
       </cards>
       <viewpoint>
+        <zoom type='entire-view' />
         <highlight>
           <color-one-way>
             <field>[federated.110paeb0myhzxn1dtot5y1423rmm].[none:Color RGB:nk]</field>
@@ -707,245 +690,212 @@
       </viewpoint>
       <simple-id uuid='{7A4D737B-D09B-45AD-B79B-83E082590819}' />
     </window>
-    <window class='worksheet' maximized='true' name='Sheet 2'>
-      <cards>
-        <edge name='left'>
-          <strip size='160'>
-            <card type='pages' />
-            <card type='filters' />
-            <card type='marks' />
-          </strip>
-        </edge>
-        <edge name='top'>
-          <strip size='2147483647'>
-            <card type='columns' />
-          </strip>
-          <strip size='2147483647'>
-            <card type='rows' />
-          </strip>
-          <strip size='31'>
-            <card type='title' />
-          </strip>
-        </edge>
-        <edge name='right'>
-          <strip size='160'>
-            <card pane-specification-id='0' param='[federated.110paeb0myhzxn1dtot5y1423rmm].[none:Part Category:nk]' type='color' />
-            <card pane-specification-id='0' param='[federated.110paeb0myhzxn1dtot5y1423rmm].[sum:Part Quantity:qk]' type='size' />
-          </strip>
-        </edge>
-      </cards>
-      <viewpoint>
-        <highlight>
-          <color-one-way>
-            <field>[federated.110paeb0myhzxn1dtot5y1423rmm].[none:Part Category:nk]</field>
-          </color-one-way>
-        </highlight>
-      </viewpoint>
-      <simple-id uuid='{CCBDE12F-9B9B-410A-AEA4-CDFEB16FBC25}' />
-    </window>
   </windows>
   <thumbnails>
-    <thumbnail height='164' name='Sheet 1' width='164'>
-      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
-    </thumbnail>
-    <thumbnail height='164' name='Sheet 2' width='164'>
-      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
-      CCEFquL/AYVYa0qoVTcXAAAAAElFTkSuQmCC
+    <thumbnail height='192' name='How Often does Each Color Appear in Star Wars Sets?' width='192'>
+      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
     </thumbnail>
   </thumbnails>
 </workbook>

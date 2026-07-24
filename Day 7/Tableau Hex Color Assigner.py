@@ -1,10 +1,10 @@
 import re
 
 #Takes the hexcodes from a field and assigns it to be its color
-#Must have a non-custom palette alright assigned, such as automatic to the field
+#Must have the non-custom automatic palette already assigned
 
-file_location = "{{Tableau .twb File Location}}"
-field_name = "{{Name of Hexcode Field}}"
+file_location = "{{Tableau Workbook .twb File Location}}"
+field_name = "{{Color Field Name}}"
 dashboard = []
 encoding_section = False
 current_color = ""
@@ -30,7 +30,7 @@ with open(file_location, "r") as preferences:
             dashboard.append(line)
 
     #Check if in the encoding section based on the element and the attribute describing the hexcode field
-        if re.search("<encoding.*field='.*Color RGB.*]'.*>", line.strip()) is not None:
+        if re.search("<encoding.*field='.*" + field_name + ".*]'.*>", line.strip()) is not None:
             encoding_section = True
         #If out of the encoding, stop checking for the color
         elif encoding_section and line.strip() == "</encoding>":
