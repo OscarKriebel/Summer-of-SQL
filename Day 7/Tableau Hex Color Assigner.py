@@ -30,7 +30,7 @@ with open(file_location, "r") as preferences:
             dashboard.append(line)
 
     #Check if in the encoding section based on the element and the attribute describing the hexcode field
-        if re.search("<encoding.*field='.*" + field_name + ".*]'.*>", line.strip()) is not None:
+        if re.search("<encoding.*field='[.*" + field_name + ".*]'.*>", line.strip()) is not None:
             encoding_section = True
         #If out of the encoding, stop checking for the color
         elif encoding_section and line.strip() == "</encoding>":
